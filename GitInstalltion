@@ -7,8 +7,8 @@ git remote add origin https://github.com/ajithpadyana/muddenahalli
 git remove -v
 git remote -v
 git push
-git config --global http.proxy http://ap:suma%401987@192.168.34.2:800
-git config --global https.proxy https://ap:suma%401987@192.168.34.2:800
+git config --global http.proxy http://username:password@192.168.34.2:800
+git config --global https.proxy https://username:password@192.168.34.2:800
 git pull
 git push
 git push origin master 
