@@ -1,0 +1,29 @@
+git status
+vi Readme.txt 
+git status
+git add Readme.txt 
+git commit -m "Add Readme.txt"
+git remote add origin https://github.com/ajithpadyana/muddenahalli
+git remove -v
+git remote -v
+git push
+git config --global http.proxy http://username:password@192.168.34.2:800
+git config --global https.proxy https://username:password@192.168.34.2:800
+git pull
+git push
+git push origin master 
+git push --help
+git push origin master 
+git remote add origin https://github.com/ajithpadyana/muddenahalli
+git push
+git push origin master 
+git pull
+git branch --set-upstream-to=origin/muddenhalli master
+git branch --set-upstream-to=origin/muddenahalli master
+git fetch
+git branch --set-upstream-to=origin/muddenahalli master
+git pull
+git branch --set-upstream-to=origin/master
+git pull
+git push origin master 
+
