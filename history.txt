@@ -1,0 +1,1000 @@
+ 1208  vi index.html 
+ 1209  exit
+ 1210  ls
+ 1211  cd assa
+ 1212  cd assignments/
+ 1213  ls
+ 1214  cd Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/
+ 1215  ls
+ 1216  cd PythonBySrinath/
+ 1217  ls
+ 1218  cd Python\ Assignments/
+ 1219  ls
+ 1220  cd Gries/
+ 1221  ls
+ 1222  python ex1_CubeTable.py 
+ 1223  vi ex1_CubeTable.py 
+ 1224  cd .
+ 1225  cd ..
+ 1226  ls
+ 1227  vi find.py 
+ 1228  python
+ 1229  ls
+ 1230  vi dateConverter.py 
+ 1231  python dateConverter.py 
+ 1232  vi dateConverter.py 
+ 1233  python dateConverter.py 
+ 1234  vi dateConverter.py 
+ 1235  python dateConverter.py 
+ 1236  vi dateConverter.py 
+ 1237  python dateConverter.py 
+ 1238  cd ../../../../
+ 1239  ls
+ 1240  cd OddSemester_2015-16/
+ 1241  ls
+ 1242  cd ICAP706_Python\ Programming/
+ 1243  s
+ 1244  ls
+ 1245  cd ExampleProgramPython/
+ 1246  ls
+ 1247  vi 1.py 
+ 1248  vi test.py 
+ 1249  vi helloApp.py 
+ 1250  ls
+ 1251  vi examp.py 
+ 1252  python examp.py 
+ 1253  python
+ 1254  cd ~/Desktop/
+ 1255  cd android-studio/bin/
+ 1256  ls
+ 1257  sudo sh studio.sh 
+ 1258  sh studio.sh 
+ 1259  sudo sh studio.sh 
+ 1260  cd 
+ 1261  vi .bashrc 
+ 1262  sudo vi .bashrc 
+ 1263  ln -s 
+ 1264  ln -s ~/.android/avd/
+ 1265  ln -s  ~/.android/avd  $ANDROID_SDK_ROOT/.android/avd 
+ 1266  ln -s ~/.android/avd/
+ 1267  man ln
+ 1268  ln -s  ~/.android/avd $ANDROID_SDK_ROOT/.android/avd 
+ 1269  whereis ANDROID_SDK_ROOT
+ 1270  ln -s  ~/.android/avd
+ 1271  vi .android/
+ 1272  cd
+ 1273  cd /root/OH
+ 1274  sudp cp /root/.android/avd ~/.android/avd/.
+ 1275  sudo cp /root/.android/avd ~/.android/avd/.
+ 1276  sudo cp /root/.android/avd $HOME/.android/avd/.
+ 1277  cd .android/
+ 1278  ls
+ 1279  cd avd/
+ 1280  ls
+ 1281  cd ..
+ 1282  ls
+ 1283  cd ..
+ 1284  ls
+ 1285  cd avd/
+ 1286  ls
+ 1287  sudo cp ../.android/avd/.
+ 1288  sudo cp * ../.android/avd/.
+ 1289  sudo cp Nexus_S_API_21.ini ../.android/avd/.
+ 1290  python
+ 1291  exit
+ 1292  cd  /var/www/html/
+ 1293  ls
+ 1294  cd python/
+ 1295  ls
+ 1296  cd materials/
+ 1297  ls
+ 1298  cd ..
+ 1299  cd materials/
+ 1300  sudo mkdir CourseraPpt
+ 1301  sudo cp /home/ajith/Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/PythonByCoursera/ppts/*.pptx CourseraPpt/.
+ 1302  cd ..
+ 1303  lsd
+ 1304  ls
+ 1305  sudo vi index.html 
+ 1306  cd
+ 1307  cd Desktop/android-studio/
+ 1308  ls
+ 1309  cd li
+ 1310  cd lib
+ 1311  ls
+ 1312  cd ..
+ 1313  ls
+ 1314  cd bin/
+ 1315  ls
+ 1316  ./studio.sh 
+ 1317  sudo apt-get install default-jdk
+ 1318  sudo apt-get install default-jdksudo apt-get install default-jre
+ 1319  sudo apt-get install default-jre
+ 1320  sudo apt-get install python-software-properties
+ 1321  sudo add-apt-repository ppa:webupd8team/java
+ 1322  sudo apt-get install oracle-java6-installer
+ 1323  sudo apt-get install oracle-java8-installer
+ 1324  cd /usr/lib/jvm/java-7-openjdk-amd64/
+ 1325  echo "$PATH"
+ 1326  printf "%s\n" "$PATH"
+ 1327  exit
+ 1328  cd materials/CourseraPpt/
+ 1329  ls
+ 1330  cd ..
+ 1331  cd ../..
+ 1332  ks
+ 1333  ls
+ 1334  cd ..
+ 1335  ls
+ 1336  cd html/
+ 1337  ls
+ 1338  vi Contact.html 
+ 1339  cd python/
+ 1340  ls
+ 1341  cd ..
+ 1342  ls
+ 1343  exit
+ 1344  java -version
+ 1345  ./studio.sh 
+ 1346  cd Desktop/android-studio/bin/
+ 1347  sh studio.sh 
+ 1348  cd ~/Desktop/Linuxi386XpxxInstall/
+ 1349  ls
+ 1350  ./setup 
+ 1351  sudo ./setup 
+ 1352  exit
+ 1353  cd materials/CourseraPpt/
+ 1354  ls
+ 1355  cd ~/Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/ExampleProgramPython/
+ 1356  ls
+ 1357  python 1.py 
+ 1358  vi convert.py
+ 1359  python convert.py 
+ 1360  vi convert.py
+ 1361  python convert.py 
+ 1362  vi convert.py
+ 1363  python
+ 1364  vi calculatwage.py
+ 1365  python calculatwage.py
+ 1366  vi calculatwage.py
+ 1367  python calculatwage.py
+ 1368  vi calculatwage.py
+ 1369  python calculatwage.py
+ 1370  python
+ 1371  vi calculatwage.py
+ 1372  python calculatwage.py
+ 1373  vi calculatwage.py
+ 1374  python calculatwage.py
+ 1375  :wq
+ 1376  vi calculatwage.py
+ 1377  python calculatwage.py
+ 1378  vi calculatwage.py
+ 1379  python calculatwage.py
+ 1380  vi calculatwage.py 
+ 1381  cd ..
+ 1382  ls
+ 1383  cd PythonBySrinath/
+ 1384  ls
+ 1385  cd Python\ Assignments/
+ 1386  ls
+ 1387  vi factorialWithException.py 
+ 1388  python factorialWithException.py 
+ 1389  vi factorialWithException.py 
+ 1390  ls
+ 1391  vi op_overloading.py 
+ 1392  python op_overloading.py 
+ 1393  vi 1.py 
+ 1394  cd /var/www/
+ 1395  ls
+ 1396  cd html/
+ 1397  ls
+ 1398  cd python/
+ 1399  ls
+ 1400  cd materials/
+ 1401  ls
+ 1402  cd CourseraPpt/`
+ 1403  cd CourseraPpt/
+ 1404  ls
+ 1405  cd ..
+ 1406  ls
+ 1407  cd ..
+ 1408  vi index.html 
+ 1409  sudo vi .bashrc 
+ 1410  vi sairam.txt
+ 1411  rm sairam.txt 
+ 1412  source .bashrc 
+ 1413  vi sairam.txt
+ 1414  rm sairam.txt 
+ 1415  sudo apt-get install trash-cli
+ 1416  vi sairam.txt
+ 1417  rm sairam.txt 
+ 1418  exit
+ 1419  cd ../
+ 1420  cd ..
+ 1421  ls
+ 1422  cd Python
+ 1423  cd PythonBySrinath/
+ 1424  ls
+ 1425  cd Python\ Assignments/
+ 1426  ls
+ 1427  vi factorialWithException.py 
+ 1428  vi swap.py 
+ 1429  vi factorialWithException.py 
+ 1430  vi factorial.py 
+ 1431  py factorial.py 
+ 1432  python factorial.py 
+ 1433  py factorial.py 
+ 1434  python factorial.py 
+ 1435  py factorial.py 
+ 1436  python factorial.py 
+ 1437  python factorial.py 7
+ 1438  python factorial.py 
+ 1439  python
+ 1440  cd Desktop/Teaching/OddSemester_2015-16/ICAP703_COA/
+ 1441  ls
+ 1442  cd ..
+ 1443  l
+ 1444  ls
+ 1445  cd ICAP706_Python\ Programming/
+ 1446  ls
+ 1447  cd ExampleProgramPython/
+ 1448  ls
+ 1449  vi 1.py
+ 1450  MyPrograms
+ 1451  mkdir MyPrograms
+ 1452  ls
+ 1453  cd 
+ 1454  cd -
+ 1455  cd MyPrograms/
+ 1456  ls
+ 1457  vi factorial.py
+ 1458  python factorial.py
+ 1459  vi factorial.py
+ 1460  python factorial.py
+ 1461  vi factorial.py
+ 1462  python factorial.py
+ 1463  vi factorial.py
+ 1464  python factorial.py
+ 1465  vi factorial.py
+ 1466  python factorial.py
+ 1467  vi factorial.py
+ 1468  python factorial.py
+ 1469  vi factorial.py
+ 1470  python factorial.py
+ 1471  vi factorial.py
+ 1472  cd Desktop/Teaching/OddSemester_2015-16/IIMCAProject/AnilKumar/Compilers/Scanner/TINY/
+ 1473  ls
+ 1474  cd src/
+ 1475  ls
+ 1476  cd tiny/
+ 1477  ls
+ 1478  javac Driver.java 
+ 1479  cd ../../bin/tiny/
+ 1480  ls
+ 1481  java Driver 
+ 1482  exit
+ 1483  cd Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/
+ 1484  ls
+ 1485  cd ExampleProgramPython/
+ 1486  ls
+ 1487  vi fileOperatins.py
+ 1488  vi sairam.txt
+ 1489  python fileOperatins.py 
+ 1490  vi sairam.txt
+ 1491  exit
+ 1492  vi fileOperatins.py 
+ 1493  exit
+ 1494  ls
+ 1495  cd materials/
+ 1496  ls
+ 1497  cd CourseraPpt/
+ 1498  ls
+ 1499  exit
+ 1500  cd /var/www/html/python/
+ 1501  ls
+ 1502  vi index.html 
+ 1503  sudo vi index.html 
+ 1504  exit
+ 1505  cd /mnt
+ 1506  ls
+ 1507  cd ..
+ 1508  cd /media/
+ 1509  ls
+ 1510  cd ajith/
+ 1511  ls
+ 1512  cd 
+ 1513  ls
+ 1514  mv PyDev\ 4.2.0.zip Pydev.zip
+ 1515  sudo mv PyDev\ 4.2.0.zip Pydev.zip
+ 1516  exit
+ 1517  cd
+ 1518  sudo cp /media/ajith/1A88565B8856360B/Softies/PyDev\ 4.2.0.zip /var/www/html/python/.
+ 1519  ls
+ 1520  cd /var/www/html/python/
+ 1521  ls
+ 1522  vi index.html 
+ 1523  cd /usr/local/bin/
+ 1524  ls
+ 1525  cd ..
+ 1526  ls
+ 1527  cd //
+ 1528  cd
+ 1529  cd /
+ 1530  ls
+ 1531  cd lib64/
+ 1532  ls
+ 1533  cd ..
+ 1534  ls
+ 1535  cd run/
+ 1536  ls
+ 1537  cd systemd/
+ 1538  ls
+ 1539  cd ..
+ 1540  ls
+ 1541  cd .
+ 1542  cd ..
+ 1543  ls
+ 1544  cd etc/
+ 1545  ls
+ 1546  cd ..
+ 1547  ls
+ 1548  cd bin/
+ 1549  ls
+ 1550  whereis cd
+ 1551  ls
+ 1552  true 
+ 1553  ls
+ 1554  cd ..
+ 1555  ls
+ 1556  cd /usr/local/bin/
+ 1557  ls
+ 1558  whereis eclipse
+ 1559  cd /usr/bin/
+ 1560  ls
+ 1561  ls eclipse 
+ 1562  eclipse
+ 1563  whereis java
+ 1564  sudo apt-get install eclipse-cdt
+ 1565  exit
+ 1566  ls
+ 1567  ll
+ 1568  whereis gcc
+ 1569  ls
+ 1570  chmod 777 Pydev.zip 
+ 1571  sudo chmod 777 Pydev.zip
+ 1572  ls
+ 1573  sudo apt-get update eclipse
+ 1574  cd ~/Desktop/Research/
+ 1575  ls
+ 1576  cd Com
+ 1577  cd Compression/
+ 1578  ls
+ 1579  cd dataInLE/
+ 1580  ls
+ 1581  vi a0nsdsil.rbdouble.data.flt.le
+ 1582  cd ~/Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/
+ 1583  ls
+ 1584  cd ICPC\ Programs/
+ 1585  sudo cp icpc2012 /var/www/html/python/
+ 1586  sudo cp icpc2012 /var/www/html/python/.
+ 1587  sudo cp icpc2012 /var/www/html/python/materials/.
+ 1588  sudo cp icpc2012.pdf /var/www/html/python/materials/.
+ 1589  cd /var/www/html/
+ 1590  ls
+ 1591  cd python/
+ 1592  ls
+ 1593  vi index.html 
+ 1594  exit
+ 1595  ls
+ 1596  cd materials/
+ 1597  ls
+ 1598  sudo mkdir challengingproblems
+ 1599  sudo mv icpc2012.pdf challengingproblems/.
+ 1600  cd challengingproblems/
+ 1601  ls
+ 1602  chmod 777 icpc2012.pdf 
+ 1603  sudo chmod 777 icpc2012.pdf 
+ 1604  ls
+ 1605  exit
+ 1606  ls
+ 1607  vi find.py 
+ 1608  python
+ 1609  help
+ 1610  sudo apt-get install skype
+ 1611  sudo apt-get install eclipse
+ 1612  whereis eclipse
+ 1613  cd /usr/bin/
+ 1614  ls
+ 1615  whereis eclipse
+ 1616  cd /usr/lib/eclipse/dropins/
+ 1617  ls
+ 1618  eclipse --version
+ 1619  cp ~/Desktop/PyDev\ 4.2.0.zip .
+ 1620  sudo cp ~/Desktop/PyDev\ 4.2.0.zip .
+ 1621  ls
+ 1622  rm ~/Desktop/PyDev\ 4.2.0.zip 
+ 1623  sudo unzip PyDev\ 4.2.0.zip 
+ 1624  ls
+ 1625  cd plugins/
+ 1626  ls
+ 1627  cd ..
+ 1628  ls
+ 1629  cd features/
+ 1630  ls
+ 1631  cd ..
+ 1632  ls
+ 1633  cd ..
+ 1634  ls
+ 1635  cd plugins/
+ 1636  ls
+ 1637  cd ..
+ 1638  ls
+ 1639  whereis gcc
+ 1640  cd /usr/lib/gcc/
+ 1641  ls
+ 1642  whereis g++
+ 1643  exit
+ 1644  cd Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/
+ 1645  ls
+ 1646  cd PythonBySrinath/
+ 1647  ls
+ 1648  cd Python\ Assignments/
+ 1649  ls
+ 1650  vi find.py 
+ 1651  python find.py 
+ 1652  python find.py ../../ExampleProgramPython/sairam.txt 
+ 1653  python find.py ../../ExampleProgramPython/sairam.txt sairam
+ 1654  man sys
+ 1655  python
+ 1656  python 
+ 1657  exit
+ 1658  sudo apt-get install eclipse-cdt
+ 1659  whereis eclipse-cdt
+ 1660  whereis cdt
+ 1661  cd /usr/bin/
+ 1662  ls
+ 1663  cd ..
+ 1664  ls
+ 1665  cd local/
+ 1666  ls
+ 1667  cd bin/
+ 1668  ls
+ 1669  cd ..
+ 1670  cd bin
+ 1671  ls
+ 1672  cd ..
+ 1673  sudo eclipse -clean
+ 1674  eclipse -cleab
+ 1675  eclipse -clean
+ 1676  sudo apt-get update
+ 1677  sudo apt-get upgrade
+ 1678  exit
+ 1679  python
+ 1680  cd Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/
+ 1681  ls
+ 1682  cd 1\ Python/
+ 1683  ls
+ 1684  cd ..
+ 1685  ls
+ 1686  cd ExampleProgramPython/
+ 1687  ls
+ 1688  vi Employee.py
+ 1689  python Employee.py
+ 1690  ping 8.8.8.8
+ 1691  ping 192.168.11.254
+ 1692  sudo apt-get update adobe
+ 1693  sudo apt-get update
+ 1694  sudo apt-get update && sudo apt-get install octave
+ 1695  sudo apt-get install octave
+ 1696  octave
+ 1697  history > temp.txt
+ 1698  vi temp.txt 
+ 1699  cd /var/www/html/python/
+ 1700  ls
+ 1701  sudo vi index.html 
+ 1702  cd materials/
+ 1703  ls
+ 1704  ll
+ 1705  cd ../assignments/
+ 1706  ls
+ 1707  ll
+ 1708  cd ..
+ 1709  ls
+ 1710  cd materials/
+ 1711  lsd
+ 1712  ls
+ 1713  cd ..
+ 1714  ls
+ 1715  vi index.html 
+ 1716  ls
+ 1717  cd materials/
+ 1718  ls
+ 1719  cd ..
+ 1720  ls
+ 1721  cd ~/Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/
+ 1722  ls
+ 1723  cd Materials/
+ 1724  ls
+ 1725  cd..
+ 1726  cd ..
+ 1727  ls
+ 1728  sudo cp OOPS*.* /var/www/html/python/materials/.
+ 1729  sudo cp Assignments/Assignment4 /var/www/html/python/assignments/. 
+ 1730  sudo cp Assignments/Assignment4.pdf /var/www/html/python/assignments/. 
+ 1731  :wq
+ 1732  ~/.dropbox-dist/dropboxd
+ 1733  cp ~/Desktop/anilkumar/call .
+ 1734  export PATH=$PATH:/home/ajith
+ 1735  anil="192.168.34.102"
+ 1736  call $anil
+ 1737  sudo chmod 777 call 
+ 1738  call $anil
+ 1739  ls
+ 1740  call $anil
+ 1741  ls
+ 1742  vi call 
+ 1743  nagaraju="192.168.34.101"
+ 1744  call $nagaraju
+ 1745  ls
+ 1746  cd Desktop/Research/
+ 1747  ls
+ 1748  vi convert.sh 
+ 1749  cd Thesis_related/
+ 1750  ls
+ 1751  cd ..
+ 1752  ls
+ 1753  cd DNAForIPDPS/
+ 1754  lsa
+ 1755  ls
+ 1756  vi batchConvertAllPngToEps.bat 
+ 1757  cd .
+ 1758  cd ..
+ 1759  ls
+ 1760  cd ImportantCompression/
+ 1761  ls
+ 1762  cd ..
+ 1763  ls
+ 1764  cd ComSISJournalHMCD2012/
+ 1765  ls
+ 1766  cd ..
+ 1767  ls
+ 1768  cd Scripts/
+ 1769  ls
+ 1770  ./bargraph.pl simple.perf  > simple.eps
+ 1771  vi simple.perf 
+ 1772  vi backup.perf 
+ 1773  ./bargraph.pl backup.perf  > backup.eps
+ 1774  vi backup.perf 
+ 1775  vi simple.perf 
+ 1776  cd bargraph-4.7/
+ 1777  ls
+ 1778  cd samples/
+ 1779  ls
+ 1780  make
+ 1781  ls
+ 1782  cd ..
+ 1783  ls
+ 1784  vi README 
+ 1785  ls
+ 1786  vi gpl.txt 
+ 1787  vi gnuplot-4.2.0-setsize-bugfix.diff 
+ 1788  cd ..
+ 1789  ls
+ 1790  vi bargraph.pl 
+ 1791  cd /usr/lib
+ 1792  ls
+ 1793  cd python3.4
+ 1794  ls
+ 1795  cd ..
+ 1796  cd local/lib/
+ 1797  ls
+ 1798  cd python3.4/
+ 1799  ls
+ 1800  cd dist-packages/
+ 1801  ls
+ 1802  cd ../../
+ 1803  cd ..
+ 1804  ls
+ 1805  cd ..
+ 1806  ls
+ 1807  cd lib
+ 1808  ls
+ 1809  cd python
+ 1810  ls
+ 1811  cd python3
+ 1812  ls
+ 1813  cd ..
+ 1814  cd python3.4/
+ 1815  l
+ 1816  ls
+ 1817  sudo cp ~/Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/graphics.py .
+ 1818  cd /var/www/html/
+ 1819  ls
+ 1820  cd python/
+ 1821  ls
+ 1822  vi index.html 
+ 1823  sudo vi index.html 
+ 1824  sudo cp ~/Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/Assignments/Assignment5.pdf assignments/.
+ 1825  vi index.html 
+ 1826  sudo vi index.html 
+ 1827  cd /usr/lib/python3.4/
+ 1828  ls
+ 1829  vi timeit.py 
+ 1830  vi copy.py 
+ 1831  vi enum.py 
+ 1832  cd ..
+ 1833  ls
+ 1834  :q
+ 1835  exit
+ 1836  cp ~/Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/graphics.py 
+ 1837  sudo mkdir pythonlibraries
+ 1838  cp ~/Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/graphics.py pythonlibraries/.
+ 1839  sudo cp ~/Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/graphics.py pythonlibraries/.
+ 1840  ls
+ 1841  cd pythonlibraries/
+ 1842  ls
+ 1843  cd /etc/apt/sources.list
+ 1844  cd /etc/apt/
+ 1845  ls
+ 1846  vi sources.list
+ 1847  sudo vi sources.list
+ 1848  cd /etc/apt/
+ 1849  sudo vi sources.list
+ 1850  sudo cp sources.list backup.sources.list
+ 1851  sudo vi sources.list
+ 1852  sudo apt-get update
+ 1853  vi sources.list
+ 1854  sudo vi sources.list
+ 1855  sudo apt-get install pavucontrol
+ 1856  sudo apt-get install pulseaudio
+ 1857  rm -r .config/Skype
+ 1858  rm -r .Skype
+ 1859  sudo apt-get install skype
+ 1860  sudo vi apt.conf
+ 1861  exit
+ 1862  sudo apt-get update
+ 1863  cd /etc/apt
+ 1864  sudo vi sources.list
+ 1865  sudo cp backup.sources.list sources.list
+ 1866  sudo apt-get update
+ 1867  sudo apt-get upgrade firefox
+ 1868  suydo apt-get upgrade
+ 1869  sudo apt-get upgrade
+ 1870  exit
+ 1871  cd /etc/apt
+ 1872  sudo vi sources.list
+ 1873  sudo cp  sources.list backup.sources.list
+ 1874  sudo vi sources.list
+ 1875  sudo apt-get update
+ 1876  sudo vi apt.conf
+ 1877  sudo apt-get update
+ 1878  sudo vi sources.list
+ 1879  sudo apt-get update
+ 1880  scala
+ 1881  sudo vi sources.list
+ 1882  sudo cp sources.list local.sources.list
+ 1883  cp backup.sources.list sources.list
+ 1884  sudo cp backup.sources.list sources.list
+ 1885  sudo apt-get install scala
+ 1886  scala
+ 1887  scala -version
+ 1888  git
+ 1889  sudo apt-get install git
+ 1890  sudo apt-get install spark
+ 1891  whereis spark
+ 1892  cd /bin/
+ 1893  ls
+ 1894  whereis spark
+ 1895  cd /usr/bin/X11/
+ 1896  ls
+ 1897  ./spark
+ 1898  cd ..
+ 1899  ls
+ 1900  ./spark-shell
+ 1901  scala
+ 1902  cd ~/Desktop/Teaching/OddSemester_2015-16/IIMCAProject/Nagaraju/
+ 1903  ls
+ 1904  cd Spark\ installation/
+ 1905  ls
+ 1906  cd spark-1.1.0/
+ 1907  sbt/sbt assembly
+ 1908  whereis README.md
+ 1909  cd assignments/
+ 1910  ls
+ 1911  mv Assignment4.tar.bz2 Assignment6.tar.bz2
+ 1912  sudo mv Assignment4.tar.bz2 Assignment6.tar.bz2
+ 1913  cd ..
+ 1914  ls
+ 1915  cd materials/
+ 1916  ls
+ 1917  cd ..
+ 1918  ls
+ 1919  vi index.html 
+ 1920  exit
+ 1921  cd /usr/lib
+ 1922  ls
+ 1923  cd python3.4/
+ 1924  ls
+ 1925  vi graphics.py 
+ 1926  python3
+ 1927  exit
+ 1928  CD ..
+ 1929  LS
+ 1930  cd ..
+ 1931  ls
+ 1932  cd ..
+ 1933  ls
+ 1934  cd ICA706
+ 1935  cd ICAP706_Python\ Programming/
+ 1936  ls
+ 1937  cd Assignments/
+ 1938  ls
+ 1939  cd ..
+ 1940  ls
+ 1941  cd Materials/
+ 1942  ls
+ 1943  sudo cp graphics.pdf /var/www/html/python/materials/
+ 1944  cd /var/www/html/python/
+ 1945  ls
+ 1946  vi index.html 
+ 1947  exit
+ 1948  cd ~/Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/Assignments/
+ 1949  ls
+ 1950  sudo cp Assignment4.tar.bz2 /var/www/html/python/assignments/.
+ 1951  cd /var/www/
+ 1952  ls
+ 1953  cd html/python/
+ 1954  ls
+ 1955  vi index.html 
+ 1956  cd 
+ 1957  cd Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/
+ 1958  ls
+ 1959  cd ExampleProgramPython/
+ 1960  ls
+ 1961  vi graphics.py
+ 1962  python  graphics.py
+ 1963  vi graphics.py
+ 1964  python  graphics.py
+ 1965  mv  graphics.py graph.py
+ 1966  python graph.py 
+ 1967  python graphics.pyc 
+ 1968  vi graphics.pyc 
+ 1969  rm graphics.pyc 
+ 1970  python graph.py 
+ 1971  python
+ 1972  sudo cp ../graphics.py .
+ 1973  python graph.py 
+ 1974  python
+ 1975  sudo apt-get install python-tk
+ 1976  python3
+ 1977  ls
+ 1978  cd ..
+ 1979  ls
+ 1980  cd ExampleProgramPython/
+ 1981  ls
+ 1982  vi graph.py
+ 1983  sudo cp graph.py /var/www/html/python/materials/.
+ 1984  ls
+ 1985  vi graphics.py 
+ 1986  python3 graphics.py 
+ 1987  vi graphics.py 
+ 1988  python3 graphics.py 
+ 1989  vi graphics.py 
+ 1990  python3 graphics.py 
+ 1991  ls
+ 1992  sudo chmod 777 graphics.py 
+ 1993  python3 graphics.py 
+ 1994  python graph.py 
+ 1995  vi graph.py
+ 1996  cd /var/www/html/python/
+ 1997  ls
+ 1998  vi index.html 
+ 1999  cd materials/
+ 2000  ls
+ 2001  vi graph.py 
+ 2002  cd ..
+ 2003  ls
+ 2004  vi graph.py 
+ 2005  where is pythong
+ 2006  whereis python
+ 2007  cd /usr/include/python3.4m/
+ 2008  ls
+ 2009  cd ..
+ 2010  ls
+ 2011  whereis turtle.pyt
+ 2012  whereis turtle.py
+ 2013  cd ..
+ 2014  ls
+ 2015  cd lib
+ 2016  ls
+ 2017  cd python3.4/
+ 2018  ls
+ 2019  cd ~/Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/
+ 2020  ls
+ 2021  cd ExampleProgramPython/
+ 2022  vi graphicsturtle.py
+ 2023  python graphicsturtle.py
+ 2024  vi graphicsturtle.py 
+ 2025  python -m turtledemo
+ 2026  vi graphicsturtle.py 
+ 2027  python -m turtledemo
+ 2028  python graphicsturtle.py
+ 2029  vi graphicsturtle.py 
+ 2030  python graphicsturtle.py 
+ 2031  cd --
+ 2032  cd ~/Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/
+ 2033  cd ExampleProgramPython/
+ 2034  vi analogclock.py
+ 2035  python analogclock.py
+ 2036  vi analogclock.py
+ 2037  vi analogclock2.py
+ 2038  python analogclock2.py
+ 2039  vi analogclock2.py
+ 2040  python analogclock2.py
+ 2041  rm analogclock2.py 
+ 2042  cd -
+ 2043  cd --
+ 2044  cd /usr/lib/python3.4
+ 2045  ls
+ 2046  cd tkinter/
+ 2047  ls
+ 2048  cd ..
+ 2049  ls
+ 2050  vi ipaddress.py 
+ 2051  cd --
+ 2052  cd ~/Desktop/Teaching/OddSemester_2015-16/ICAP706_Python\ Programming/
+ 2053  cd ExampleProgramPython/
+ 2054  vi analogclock2.py
+ 2055  python analogclock2.py
+ 2056  vi analogclock2.py
+ 2057  python analogclock2.py
+ 2058  cd ..
+ 2059  ls
+ 2060  vi Commands
+ 2061  vi analogclock2.py
+ 2062  python analogclock2.py
+ 2063  cd ExampleProgramPython/
+ 2064  ls
+ 2065  python analogclock2.py
+ 2066  vi analogclock2.py
+ 2067  vi clock.py
+ 2068  python clock.py
+ 2069  vi clock.py
+ 2070  python clock.py
+ 2071  vi clock.py
+ 2072  python clock.py
+ 2073  vi clock.py
+ 2074  python clock.py
+ 2075  vi clock.py
+ 2076  python clock.py
+ 2077  :wq
+ 2078  jav --version
+ 2079  java --version
+ 2080  java -version
+ 2081  sudo apt-get install ssh
+ 2082  ssh localhost
+ 2083  sudo apt-get install ssh
+ 2084  vi /etc/apt/apt.conf
+ 2085  sudo vi /etc/apt/apt.conf
+ 2086  sudo apt-get install ssh
+ 2087  ssh localhost
+ 2088  git
+ 2089  git --commit
+ 2090  git comit
+ 2091  git commit
+ 2092  git config
+ 2093  git init
+ 2094  ls
+ 2095  ls -a 
+ 2096  git help
+ 2097  git show
+ 2098  git config --global user.name "Ajith Padyana"
+ 2099  git config --global user.email "ajith.padyana@gmail.com"
+ 2100  cd 
+ 2101  cd Desktop/Teachin
+ 2102  cd Desktop/Teaching/
+ 2103  ls
+ 2104  mkdir SimplyGIT
+ 2105  rmdir SimplyGIT/
+ 2106  mkdir simplyGIT
+ 2107  cd simplyGIT/
+ 2108  git init
+ 2109  touch Readme.txt
+ 2110  ls
+ 2111  git status
+ 2112  vi Readme.txt 
+ 2113  git status
+ 2114  git add Readme.txt 
+ 2115  git commit -m "Add Readme.txt"
+ 2116  git remote add origin https://github.com/ajithpadyana/muddenahalli
+ 2117  git remove -v
+ 2118  git remote -v
+ 2119  git push
+ 2120  git config --global http.proxy http://username:password@192.168.34.2:800
+ 2121  git config --global https.proxy https://username:password@192.168.34.2:800
+ 2122* 
+ 2123  git pull
+ 2124  git push
+ 2125  git push origin master 
+ 2126  git push --help
+ 2127  git push origin master 
+ 2128  git remote add origin https://github.com/ajithpadyana/muddenahalli
+ 2129  git push
+ 2130  git push origin master 
+ 2131  git pull
+ 2132  git branch --set-upstream-to=origin/muddenhalli master
+ 2133  git branch --set-upstream-to=origin/muddenahalli master
+ 2134  git fetch
+ 2135  git branch --set-upstream-to=origin/muddenahalli master
+ 2136  git pull
+ 2137* git branch --set-upstream-to=origin/master
+ 2138  git pull
+ 2139  git push origin master 
+ 2140  Lls
+ 2141  ls
+ 2142  ls -a 
+ 2143  cd .git/
+ 2144  ls
+ 2145  cd ..
+ 2146  ls
+ 2147  history
+ 2148  git push origin master 
+ 2149  git pull
+ 2150  git push origin master 
+ 2151  git commit
+ 2152  git commit -m "Add GitInstalltion
+ 2153  git commit -m "Add GitInstalltion"
+ 2154  git push origin master 
+ 2155  git commit -m "Add Readme.txt"
+ 2156  ls
+ 2157* rm GitInstalltion
+ 2158  git commit -m "Add GitInstalltion"
+ 2159  touch GitInstalltion 
+ 2160  git commit -m "Add GitInstalltion"
+ 2161  git push origin master
+ 2162  git init
+ 2163  git commit -m "Add GitInstalltion"
+ 2164  git status 
+ 2165  git add GitInstalltion
+ 2166  git commit -m "Add GitInstalltion"
+ 2167  git push origin master
+ 2168  vi GitInstalltion 
+ 2169  ls
+ 2170  vi Readme.txt 
+ 2171  git status 
+ 2172  git push origin master
+ 2173  git commit -m "modify Readme.txt"
+ 2174  git commit -m "Add Readme.txt"
+ 2175  git add Readme.txt 
+ 2176  git commit -m "Add Readme.txt"
+ 2177  git push origin master
+ 2178  git pull
+ 2179  git pull origin master
+ 2180  vi GitInstalltion 
+ 2181  git add GitInstalltion
+ 2182  git commit -m "Add Readme.txt"
+ 2183  git commit -m "Add GitInstalltion"
+ 2184  git add GitInstalltion
+ 2185  git commit -m "Add GitInstalltion"
+ 2186  git pull origin master
+ 2187  git push origin master
+ 2188  mv GitInstalltion GitInstallation
+ 2189  git add GitInstallation
+ 2190  git push origin master
+ 2191  git add GitInstallation
+ 2192  git commit -m "Add GitInstallation"
+ 2193  git push origin master
+ 2194  ls -a
+ 2195  cd .git/
+ 2196  ls
+ 2197  cd branches/
+ 2198  ls
+ 2199  cd ..
+ 2200  ls
+ 2201  vi HEAD 
+ 2202  vi ORIG_HEAD 
+ 2203  cd ..
+ 2204  ls
+ 2205  vi GitInstallation 
+ 2206  cat history
+ 2207  history > history.txt
